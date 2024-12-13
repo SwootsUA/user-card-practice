@@ -24,13 +24,7 @@ body {
     padding: 0 15px;
 }
 
-p {
-    font-size: 0.8rem;
-    line-height: 1.3em;
-}
-
-.user-geoposition * {
-    vertical-align: middle;
+.user-geoposition {
     font-size: 0.8rem;
 }
 
@@ -52,6 +46,8 @@ p {
 .about-user {
     max-width: 300px;
     margin: 0 auto 25px;
+    font-size: 0.8rem;
+    line-height: 1.3em;
 }
 
 .follow-btn {
@@ -103,6 +99,6 @@ p {
     border-color: #3A5067;
 }
 
-.stats-block p:last-child {
+.stats-data {
     color: white;
 }
