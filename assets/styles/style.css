@@ -91,6 +91,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 30px 10px;
+    font-size: 0.85rem;
     width: calc(100% / 3);
     color: #C37290;
 }
