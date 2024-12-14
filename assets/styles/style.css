@@ -6,6 +6,7 @@
 body {
     background-color: #07CAAB;
     padding: 10px;
+    line-height: 1.3em;
 }
 
 .user-card {
@@ -47,14 +48,13 @@ body {
 
 .user-name {
     font-size: 2rem;
-    margin: 7px 0 20px 0;
+    margin: 20px 0;
 }
 
 .about-user {
     max-width: 300px;
     margin: 0 auto 25px;
     font-size: 0.8rem;
-    line-height: 1.3em;
 }
 
 .follow-btn {
