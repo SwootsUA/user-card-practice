@@ -1,1 +1,5 @@
-.vscode/
+# Any hidden files, except .gitignore
+.*
+!.gitignore
+
+node_modules/
