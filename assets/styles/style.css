@@ -32,7 +32,6 @@ body {
 .user-img-container {
     width: 240px;
     height: 240px;
-    object-fit: cover;
     border: 10px solid #FAFAFA;
     overflow: hidden;
     border-radius: 50%;
