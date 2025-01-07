@@ -5,13 +5,15 @@
 
 body {
     background-color: #07CAAB;
-    padding: 10px;
     line-height: 1.3em;
 }
 
 .articles {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .user-card {
@@ -110,9 +112,8 @@ body {
 }
 
 .stats-block + .stats-block {
+    border: 0 solid #3A5067;
     border-width: 0 0 0 1.5px;
-    border-style: solid;
-    border-color: #3A5067;
 }
 
 .stats-data {
