@@ -112,8 +112,7 @@ body {
 }
 
 .stats-block + .stats-block {
-    border: 0 solid #3A5067;
-    border-width: 0 0 0 1.5px;
+    border-left: 1.5px solid #3A5067 ;
 }
 
 .stats-data {
